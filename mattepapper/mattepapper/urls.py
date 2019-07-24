@@ -17,7 +17,7 @@ import app.views
 urlpatterns = [
 	#example stuff:
     #url(r'^$', app.views.home, name='home'),
-    url(r'^$', papperapp.views.test, name='test'),
+    url(r'^$', papperapp.views.mult, name='test'),
     url(r'^contact$', app.views.contact, name='contact'),
     url(r'^about$', app.views.about, name='about'),
     url(r'^login/$',

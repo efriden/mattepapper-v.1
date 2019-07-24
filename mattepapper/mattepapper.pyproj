@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="papperapp\templates\papperapp\index.html" />
+    <Content Include="papperapp\templates\tex\mult.tex" />
     <Content Include="papperapp\templates\tex\fractions.tex" />
     <Content Include="papperapp\templates\tex\test.tex">
       <SubType>Code</SubType>

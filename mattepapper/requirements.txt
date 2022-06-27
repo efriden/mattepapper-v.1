@@ -6,5 +6,5 @@ ordered-set==3.1.1
 Pillow==6.1.0
 pip==10.0.1
 pytz==2019.1
-reportlab==3.5.23
+reportlab==3.5.55
 setuptools==39.0.1
